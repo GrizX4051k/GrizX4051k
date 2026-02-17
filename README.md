@@ -1,9 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Manish 👋</h1>
+<h1 align="center">Hi👋</h1>
 <h3 align="center">Software Engineer • Full‑Stack Web & Mobile Dev • Security‑Aware Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manishpratapchoudhary" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a> •
   <a href="mailto:money4051k@gmail.com">Email</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- Former student app developer at **Northern Arizona University (NAU)**, working on real apps used by students.
+- Former student app developer, working on real apps used by students.
 - I enjoy building **web apps, mobile apps, and tools** that feel fast and clean.
 - Right now I’m rebuilding my skills from the ground up and tracking everything in public repos.
 
