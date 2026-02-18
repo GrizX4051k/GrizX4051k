@@ -75,7 +75,7 @@
 - `portfolio-website` – my personal dev portfolio (Next.js + Tailwind), coming soon.
 
 ---
-
+<!---
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -89,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish4051kk&layout=compact&theme=radical" alt="Top languages" />
 </p>
-
+---->
 ---
 
 ## 🚀 Roadmap (High Level)
