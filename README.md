@@ -43,7 +43,7 @@
   <span>
     <a href="https://github.com/GrizX4051k/Web-Development">
       <img
-        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=Web-Development&theme=radical&show_owner=true&cache_seconds=60"
+        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=GrizX4051k&theme=radical&show_owner=true&cache_seconds=60"
         alt="Web-Development repo card"
         style="display:inline-block;" />
     </a>
