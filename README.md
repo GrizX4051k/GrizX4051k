@@ -25,7 +25,28 @@
 - Right now I’m rebuilding my skills from the ground up and tracking everything in public repos.
 
 ---
+<p>
+  <img
+    src="https://github-readme-stats-five-delta-54.vercel.app/api?username=GrizX4051k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&number_format=long"
+    alt="GitHub stats for GrizX4051k"
+  />
+</p>
 
+<p>
+  <img
+    src="https://github-readme-stats-five-delta-54.vercel.app/api/top-langs/?username=GrizX4051k&layout=compact&langs_count=6&theme=radical"
+    alt="Top web languages"
+  />
+</p>
+
+<p>
+  <a href="https://github.com/GrizX4051k/Web-Development">
+    <img
+      src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=Web-Development&theme=radical&show_owner=true"
+      alt="Web-Development repo card"
+    />
+  </a>
+</p>
 ## 🛠️ Tech Stack (current & planned)
 
 ### Languages
