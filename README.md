@@ -28,14 +28,14 @@
 
   <span>
     <img
-      src="https://github-readme-stats-five-delta-54.vercel.app/api?username=GrizX4051k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&number_format=long"
+      src="https://github-readme-stats-five-delta-54.vercel.app/api?username=GrizX4051k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&number_format=long&cache_seconds=60"
       alt="GitHub stats for GrizX4051k"
       style="display:inline-block;" />
   </span>
 
   <span>
     <img
-      src="https://github-readme-stats-five-delta-54.vercel.app/api/top-langs/?username=GrizX4051k&layout=compact&langs_count=6&theme=radical"
+      src="https://github-readme-stats-five-delta-54.vercel.app/api/top-langs/?username=GrizX4051k&layout=compact&langs_count=6&theme=radical&cache_seconds=60"
       alt="Top web languages"
       style="display:inline-block;" />
   </span>
@@ -43,7 +43,7 @@
   <span>
     <a href="https://github.com/GrizX4051k/Web-Development">
       <img
-        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=Web-Development&theme=radical&show_owner=true"
+        src="https://github-readme-stats-five-delta-54.vercel.app/api/pin/?username=GrizX4051k&repo=Web-Development&theme=radical&show_owner=true&cache_seconds=60"
         alt="Web-Development repo card"
         style="display:inline-block;" />
     </a>
